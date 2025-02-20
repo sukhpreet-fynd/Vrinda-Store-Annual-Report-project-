@@ -1,4 +1,4 @@
-# Vrinda-Store-Annual-Report-project
+# sukhpreet-Store-Annual-Report-project
 
 Transformed raw sales data into insightful charts and graphs, highlighting regional performance for smarter resource allocation decisions. Excel's PivotTables and bar charts showcased sales trends across product categories, aiding quick insights.
 
